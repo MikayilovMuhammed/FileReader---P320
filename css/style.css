@@ -1,0 +1,12 @@
+form i {
+  font-size: 40px;
+  color: green;
+}
+
+form input {
+  display: none;
+}
+
+.image-wrapper img {
+  width: 200px;
+}
